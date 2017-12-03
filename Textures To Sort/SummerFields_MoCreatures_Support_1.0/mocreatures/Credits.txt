@@ -1,0 +1,13 @@
+﻿Credits list:
+
+Dr. Zhark for the wonderful Mo' Creatures mod.
+LithiumSound for making SummerFields, the original texture pack that this is based on.
+DiamondSquid for the Ogres and Wraiths.
+
+The rest of the textures currently available in this download were created by me, CuddleWoozle. 
+
+Some are very close to the default textures that come with Mo' Creatures, such as the Ostriches.  I felt that the Ostriches were a pretty good fit already and I only changed their eyes to match the rest of the SummerFields animals.
+
+To Use:
+
+Just drop the folders in this .zip file into your current SummerFields texture pack .zip file.
